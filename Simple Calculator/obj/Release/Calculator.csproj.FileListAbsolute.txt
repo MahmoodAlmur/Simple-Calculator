@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\bin\Release\Calculator.exe.config
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\bin\Release\Calculator.exe
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\bin\Release\Calculator.pdb
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\bin\Release\NCalc.dll
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.Form1.resources
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.csproj.Up2Date
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.exe
+C:\Users\User\source\repos\Projects\Calculator - Copy - Copy\obj\Release\Calculator.pdb
+C:\Users\User\Desktop\Simple Calculator\bin\Release\Calculator.exe.config
+C:\Users\User\Desktop\Simple Calculator\bin\Release\Calculator.exe
+C:\Users\User\Desktop\Simple Calculator\bin\Release\Calculator.pdb
+C:\Users\User\Desktop\Simple Calculator\bin\Release\NCalc.dll
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.csproj.Up2Date
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.exe
+C:\Users\User\Desktop\Simple Calculator\obj\Release\Calculator.pdb
